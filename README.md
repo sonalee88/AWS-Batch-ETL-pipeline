@@ -37,7 +37,7 @@ This pipeline consists of:
 - **AWS Lambda-based API for Predictions**  
 
 ### 🖼 Architecture Diagram  
-![High-Level Architecture](diagrams/high_level_architecture.png)  
+![High-Level Architecture](high_level_architecture.png)  
 
 ---
 
